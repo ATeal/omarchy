@@ -1,0 +1,36 @@
+# Sanctuary — light, airy, cathedral blue
+# Part of the Sanctuary/Hell theme pair (loot-color accents)
+
+[colors.primary]
+background = '#F2F3F5'
+foreground = '#1B2430'
+
+[colors.cursor]
+text = '#F2F3F5'
+cursor = '#3B6EA8'
+
+[colors.selection]
+text = '#F2F3F5'
+background = '#3B6EA8'
+
+# Normal colors
+[colors.normal]
+black   = '#1B2430'
+red     = '#B03A3A'
+green   = '#4A8C5A'
+yellow  = '#B8860B'
+blue    = '#3B6EA8'
+magenta = '#6A4A9E'
+cyan    = '#3C8291'
+white   = '#4A5568'
+
+# Bright colors
+[colors.bright]
+black   = '#4F596A'
+red     = '#D04B4B'
+green   = '#5EA070'
+yellow  = '#C2591A'
+blue    = '#4A7FBF'
+magenta = '#7C5EB0'
+cyan    = '#4A9DAE'
+white   = '#0F1419'

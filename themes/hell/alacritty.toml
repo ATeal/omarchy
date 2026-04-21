@@ -1,0 +1,36 @@
+# Hell — dark, arterial red, vivid loot accents
+# Part of the Sanctuary/Hell theme pair (loot-color accents)
+
+[colors.primary]
+background = '#140909'
+foreground = '#E8D9C7'
+
+[colors.cursor]
+text = '#140909'
+cursor = '#C8201E'
+
+[colors.selection]
+text = '#E8D9C7'
+background = '#3D2424'
+
+# Normal colors
+[colors.normal]
+black   = '#1F1312'
+red     = '#C8201E'
+green   = '#6A9955'
+yellow  = '#F0C84A'
+blue    = '#4A9EFF'
+magenta = '#A470E0'
+cyan    = '#5CD0D8'
+white   = '#E8D9C7'
+
+# Bright colors
+[colors.bright]
+black   = '#3D2424'
+red     = '#FF4A3A'
+green   = '#7FB569'
+yellow  = '#FF7B1C'
+blue    = '#6AB5FF'
+magenta = '#C590F0'
+cyan    = '#7FE5EB'
+white   = '#F5F0E8'
