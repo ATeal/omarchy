@@ -1,0 +1,19 @@
+name = "sanctuary"
+
+# Omarchy "Sanctuary" — light, airy, cathedral blue (loot-color accents)
+[colors]
+primary      = "#3B6EA8"
+accent       = "#B8860B"
+warning      = "#C2591A"
+error        = "#B03A3A"
+background   = "#F2F3F5"
+surface      = "#FFFFFF"
+surface_dark = "#E2E5EA"
+text         = "#1B2430"
+text_muted   = "#4A5568"
+border       = "#C9CDD4"
+
+sidebar_background = "#E7EAEF"
+sidebar_text       = "#1B2430"
+sidebar_text_muted = "#4A5568"
+rail_background    = "#DFE3E9"
