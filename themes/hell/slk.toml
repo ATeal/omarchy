@@ -1,0 +1,19 @@
+name = "hell"
+
+# Omarchy "Hell" — dark, arterial red, vivid loot accents
+[colors]
+primary      = "#C8201E"
+accent       = "#F0C84A"
+warning      = "#FF7B1C"
+error        = "#FF4A3A"
+background   = "#140909"
+surface      = "#251515"
+surface_dark = "#1F1312"
+text         = "#E8D9C7"
+text_muted   = "#9A8472"
+border       = "#3D2424"
+
+sidebar_background = "#0E0606"
+sidebar_text       = "#E8D9C7"
+sidebar_text_muted = "#9A8472"
+rail_background    = "#0E0606"
